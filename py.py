@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import io
-import pyrebase
+import pyrebase4 as pyrebase
 import datetime
 
 firebaseConfig = {
